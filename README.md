@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação, cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) em Recife — PE.
 
-Apaixonado por tecnologia desde pequeno e agora buscando minha primeira experiência no mercado de trabalho.
+Apaixonado por tecnologia desde pequeno e agora buscando uma oportunidade no mercado de trabalho.
 
 ## 🛠️ Tecnologias
 
