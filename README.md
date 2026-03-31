@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Carvalho 👋
+# Olá, eu sou Pedro Carvalho 👋
 
 Desenvolvedor em formação, cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) em Recife — PE.
 
